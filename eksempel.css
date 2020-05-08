@@ -1,4 +1,5 @@
--body {
+<style>
+body {
   font-size: 28px;
 }
 
@@ -32,3 +33,21 @@ li a:hover {
 .active {
   background-color: #4CAF50;
 }
+</style>
+</head>
+<body>
+<a href="
+<ul>
+  <li><a class="active" href="#Hjem">Hjem</a></li>
+  <li><a href="#Hvordan funker internett?">Hvordan funker internett?</a></li>
+  <li><a href="#Åndsverksloven og IKT-løsninger">Åndsverksloven og IKT-løsninger</a></li>
+  <li><a href="#Scratch spill">Scrath spill</a></li>
+  <li><a href="#Filmer">Filmer</a></li>
+</ul>
+<h1>Velkommen til prosjekt nettside</h1>
+<p>Her kommer det mye spennede, to be continued</p>
+<p>Sånn er det å leve</p>
+  <p>Sånn er det å leve</p>
+  <p>Sånn er det å leve</p>
+  <p>Sånn er det å leve</p>
+  <p>Sånn er det å leve</p>
