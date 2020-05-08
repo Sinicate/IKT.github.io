@@ -1,1 +1,20 @@
+@charset "UTF-8";
 
+/* For mobile phones: */
+[class*="main"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  main {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+	/* For desktop: */
+	main {width: 100%;}
+  }
+
+body{
+  
+  font-family: "Lucida Sans", sans-serif;
+  background-image: url("https://tr2.cbsistatic.com/hub/i/r/2020/04/07/1813351a-0675-4189-a80d-e0546f7adc23/resize/770x/d84aaa0b6d2c1c8a162ae553c6cd8300/silicon-valley-hbo-background-1920.jpg");
