@@ -16,7 +16,7 @@
 
 body{
   font-family: "Lucida Sans", sans-serif;
-  background-image: url(paper.gif);
+  background-image: url("paper.gif");
 }
 
 
