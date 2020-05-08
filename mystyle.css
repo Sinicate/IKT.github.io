@@ -15,4 +15,16 @@
   }
 
 body 
+.header {
+	grid-column: 1/6;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 10px;
+	background-color: #33b5e5;
 
+h1 {
+	position: relative;
+	animation-timing-function: linear;
+	animation: mymove 7s infinite;
+	animation-direction: alternate-reverse;
+	}
