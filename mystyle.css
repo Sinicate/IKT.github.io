@@ -28,3 +28,24 @@ h1 {
 	animation: mymove 7s infinite;
 	animation-direction: alternate-reverse;
 	}
+	
+@keyframes mymove {
+	from {right: 0px;}
+	to {right: 75px;}
+  }
+
+.meny_topp{
+	grid-column: 1/6;
+	grid-row: 1/6;
+	text-align: left;
+	font-size: 14px;
+}
+
+	.meny_venstre{
+	grid-column: 1/2;
+	font-size: 14px;
+	text-align: left;
+	text-indent: 20px;
+	font-weight: bold;
+	grid-column-gap: 15px; /* mellomrom mellom gridsene horisontalt*/
+}
